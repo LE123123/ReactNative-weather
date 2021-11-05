@@ -9,3 +9,5 @@ $ npm start (to start the metro server)
 $ w ( execute with web app )
 $ i ( xcode with ios simulator )
 ```
+
+- API -
